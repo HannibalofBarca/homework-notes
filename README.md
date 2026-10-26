@@ -7,8 +7,18 @@ Personal study notes on ML papers: transformers & attention, optimal control, re
 
 ## Contents
 
-- `homework.md`: main notes
-- `aamas_review.md`: reading curriculum / review
-- `papers/`: source PDFs, page renders, and diagrams
+| File | Section | Topics |
+|---|---|---|
+| `homework.md` | Transformers & attention | Attention Is All You Need, π0, π0.5, π0.6, π0.7, BUMBLE |
+| | Modern attention | RoPE, ALiBi, PI / YaRN, MQA, GQA, MLA, FlashAttention, sparse attention, Pre-LN vs Post-LN, KV caching, speculative decoding |
+| | Optimal control | PD / PID, LQR |
+| | Reinforcement learning | MDPs & Bellman equations, POMDPs, on- vs off-policy, dynamic programming, Q-learning & DQN |
+| | Gen AI | VAEs, DDPM, flow matching, advantage-weighted flow matching |
+| `aamas_review.md` | Stochastic games | Markov games, FOSGs |
+| | World models | Dreamer, TD-MPC, JEPA |
+| | Game-play | AlphaZero, AlphaStar, MuZero, AlphaStar Unplugged, Student of Games, MAZero, LAMIR, SkyNet |
+| | Partial observability | ToMnet, LIAM, self-predictive RL, in-context exploiter |
+| | RL policy optimisation | General RL methods, LLM policy optimisation, RL for VLAs |
+| `papers/` | | Source PDFs, page renders, and diagrams, one folder per topic |
 
 Best viewed in [Obsidian](https://obsidian.md).

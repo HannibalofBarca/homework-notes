@@ -6,3 +6,4 @@
 # Local Claude / Claudian session data
 .claude/settings.local.json
 .claudian/sessions/
+*.docx
