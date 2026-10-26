@@ -1,0 +1,8 @@
+# Obsidian per-device state
+.obsidian/workspace*.json
+.obsidian/plugins/*/node_modules/
+.trash/
+
+# Local Claude / Claudian session data
+.claude/settings.local.json
+.claudian/sessions/

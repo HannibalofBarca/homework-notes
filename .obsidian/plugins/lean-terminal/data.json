@@ -1,0 +1,115 @@
+{
+  "shellPath": "",
+  "shellPathWin": "",
+  "shellPathMac": "",
+  "shellPathLinux": "",
+  "startupCommand": "",
+  "fontSize": 14,
+  "fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+  "lineHeight": 1,
+  "theme": "auto",
+  "backgroundColor": "",
+  "cursorBlink": true,
+  "cursorStyle": "block",
+  "copyOnSelect": false,
+  "scrollback": 5000,
+  "ribbonIcon": "terminal",
+  "defaultLocation": "bottom",
+  "notifyOnCompletion": false,
+  "notificationSound": "beep",
+  "notificationVolume": 50,
+  "searchShortcut": "Ctrl+Alt+F",
+  "persistBuffer": true,
+  "recentSessionsMax": 10,
+  "recentSessions": [
+    {
+      "name": "Terminal 4",
+      "color": "",
+      "cwd": "C:\\Archit Resources\\Obsidian Notes\\Homework",
+      "bufferSerial": "\u001b[?1049h\u001b[H    - the limitations of equilibria        - Pareto optimality                    - social welfare and fairness          - no-regret                            - the complexity of computing            equilibria (PPAD)                                                         The chapter that actually defines      stochastic games and POSGs is \u001b[1mCh. 3, \u001b[0m  \u001b[1m\"Games: Models of Multi-Agent \u001b[0m         \u001b[1mInteraction\"\u001b[0m (book pp. 43–60). The     full book (395 pages) is in the job's  temp folder, so I can cut it out the   same way and put it under the          Stochastic (Markov) Games heading if   you want.                                                                   \u001b[38;2;153;153;153m✻ Cogitated for 4m 49s · done 2:30 PM  \u001b[0m                                       -\u001b[1D\u001b[1X\u001b[38;2;80;80;80;48;2;55;55;55m❯ \u001b[38;2;255;255;255mwhat's the resume code for this chat -\u001b[1D\u001b[1X\u001b[0m                                       \u001b[38;2;255;255;255m● \u001b[0mThis chat's session ID is              \u001b[38;2;177;185;249m4adf7c4f-6a2a-440f-9520-095b748c4c2e\u001b[0m.  To pick it up again, run this from     \u001b[38;2;177;185;249mC:\\Archit Resources\\Obsidian         \u001b[0m  \u001b[38;2;177;185;249mNotes\\Homework\u001b[0m:                                                               \u001b[38;2;177;185;249mclaude --resume                      \u001b[0m  \u001b[38;2;177;185;249m4adf7c4f-6a2a-440f-9520-095b748c4c2e \u001b[0m                                         You can also run \u001b[38;2;177;185;249mclaude --resume \u001b[0mwith  no ID, or type \u001b[38;2;177;185;249m/resume \u001b[0minside Claude   Code, and pick this chat from the      list.                                                                       \u001b[38;2;153;153;153m✻ Worked for 5s · done 2:30 PM         \u001b[0m         \u001b[38;2;177;185;249mcopied 52 chars to clipboard  \u001b[38;2;136;136;136m───────── manage local command output ─\u001b[0m❯ \u001b[2mpull ch3 too, put it under stochasti…\u001b[38;2;136;136;136;22m───────────────────────────────────────\u001b[0m  \u001b[38;2;153;153;153m⏸ manual mode on · ← 1 agent\u001b[2A\u001b[28D\u001b[0m\u001b[?2004h\u001b[?1004h\u001b[?1003h",
+      "closedAt": 1790706642127
+    },
+    {
+      "name": "Terminal 3",
+      "color": "",
+      "cwd": "C:\\Archit Resources\\Obsidian Notes\\Homework",
+      "bufferSerial": "Microsoft Windows [Version 10.0.26200.9457]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nC:\\Archit Resources\\Obsidian Notes\\Homework>ssh -x as20424@maxwell.poly.edu\r\nas20424@maxwell.poly.edu's password: \r\nWelcome to Ubuntu 24.04.4 LTS (GNU/Linux 6.8.0-139-generic x86_64)\r\n\r\n * Documentation:  https://help.ubuntu.com\r\n * Management:     https://landscape.canonical.com\r\n * Support:        https://ubuntu.com/pro\r\n\r\n System information as of Wed Sep 16 11:43:55 PM EDT 2026\r\n\r\n  System load:  126.86              Temperature:            49.9 C\r\n  Usage of /:   70.4% of 445.36GB   Processes:              2020\r\n  Memory usage: 21%                 Users logged in:        10\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[40A\u001b[?1049h\u001b[H\u001b[2C│\u001b[5C│\u001b[6C│\u001b[2CMem\u001b[4C│\u001b[9C│\r\n\u001b[2C│\u001b[1CGPU\u001b[1C│\u001b[1CUtil\u001b[1C│\u001b[1Cused\u001b[1C/\u001b[2C│\u001b[1CUsers\u001b[3C│\r\n\u001b[2C│\u001b[5C│\u001b[6C│\u001b[1Ctotal\u001b[3C│\u001b[2C(MiB)\u001b[2C│\r\n\u001b[2C│\u001b[5C│\u001b[6C│\u001b[2C(MiB)\u001b[2C│\u001b[9C│\r\n\u001b[2C├─────┼──────┼─────────┼─────────┤\r\n\u001b[2C│\u001b[1C0\u001b[3C│\u001b[1C100%\u001b[1C│\u001b[1C14325\u001b[1C/\u001b[1C│\u001b[1Crc5832:\u001b[1C│\r\n\u001b[2C│\u001b[5C│\u001b[6C│\u001b[2C49140\u001b[2C│\u001b[2C13141\u001b[2C│\r\n\u001b[2C├─────┼──────┼─────────┼─────────┤\r\n\u001b[2C│\u001b[1C1\u001b[3C│\u001b[1C100%\u001b[1C│\u001b[1C9153\u001b[1C/\u001b[2C│\u001b[1Cba3033:\u001b[1C│\r\n\u001b[2C│\u001b[5C│\u001b[6C│\u001b[1C49140\u001b[3C│\u001b[2C9132\u001b[3C│\r\n\u001b[2C├─────┼──────┼─────────┼─────────┤\r\n\u001b[2C│\u001b[1C2\u001b[3C│\u001b[1C99%\u001b[2C│\u001b[1C8240\u001b[1C/\u001b[2C│\u001b[1Cba3033:\u001b[1C│\r\n\u001b[2C│\u001b[5C│\u001b[6C│\u001b[1C49140\u001b[3C│\u001b[2C8224\u001b[3C│\r\n\u001b[2C├─────┼──────┼─────────┼─────────┤\r\n\u001b[2C│\u001b[1C3\u001b[3C│\u001b[1C96%\u001b[2C│\u001b[1C18984\u001b[1C/\u001b[1C│\u001b[1Crc5832:\u001b[1C│\r\n\u001b[2C│\u001b[5C│\u001b[6C│\u001b[2C49140\u001b[2C│\u001b[2C18960\u001b[2C│\r\n\u001b[2C├─────┼──────┼─────────┼─────────┤\r\n\u001b[2C│\u001b[1C4\u001b[3C│\u001b[1C100%\u001b[1C│\u001b[1C9897\u001b[1C/\u001b[2C│\u001b[1Cba3033:\u001b[1C│\r\n\u001b[2C│\u001b[5C│\u001b[6C│\u001b[1C49140\u001b[3C│\u001b[2C9132\u001b[3C│\r\n\u001b[2C├─────┼──────┼─────────┼─────────┤\r\n\u001b[2C│\u001b[1C5\u001b[3C│\u001b[1C99%\u001b[2C│\u001b[1C5304\u001b[1C/\u001b[2C│\u001b[1Csz4968:\u001b[1C│\r\n\u001b[2C│\u001b[5C│\u001b[6C│\u001b[1C49140\u001b[3C│\u001b[2C3814\u001b[3C│\r\n\u001b[2C├─────┼──────┼─────────┼─────────┤\r\n\u001b[2C│\u001b[1C6\u001b[3C│\u001b[1C100%\u001b[1C│\u001b[1C13714\u001b[1C/\u001b[1C│\u001b[1Csz4968:\u001b[1C│\r\n\u001b[2C│\u001b[5C│\u001b[6C│\u001b[2C49140\u001b[2C│\u001b[2C13702\u001b[2C│\r\n\u001b[2C├─────┼──────┼─────────┼─────────┤\r\n\u001b[2C│\u001b[1C7\u001b[3C│\u001b[1C58%\u001b[2C│\u001b[1C15448\u001b[1C/\u001b[1C│\u001b[1Csz4968:\u001b[1C│\r\n\u001b[2C│\u001b[5C│\u001b[6C│\u001b[2C49140\u001b[2C│\u001b[2C13864\u001b[2C│\r\n\u001b[2C└─────┴──────┴─────────┴─────────┘\r\n\r\n\u001b[2CAll\u001b[1Ceight\u001b[1Care\u001b[1CRTX\u001b[1C6000\u001b[1CAda\u001b[1Ccards\u001b[1Cwith\r\n\u001b[2C48\u001b[1CGB\u001b[1Ceach.\r\n\r\n\u001b[2C \u001b[1C  \u001b[38;5;231;48;5;237m 1 new message (ctrl+End) ↓ \u001b[0m\r\n\u001b[2C\u001b[38;5;246mcontrol this session from your pho…\r\n\u001b[38;5;244m─────────────────── jobs status check ─\r\n\u001b[0m❯ client_loop: send disconnect: Connection reset\u001b[38;5;244m──────────────────────────────\r\n\u001b[2C\u001b[38;5;220m⏵⏵ auto mode on\u001b[38;5;246m (shift+tab to  · ← \r\n\u001b[0mC:\\Archit Resources\\Obsidian Notes\\Homework>\u001b[?2004h\u001b[?1004h\u001b[?1003h",
+      "closedAt": 1790087371719
+    },
+    {
+      "name": "Terminal 1",
+      "color": "",
+      "cwd": "C:\\Archit Resources\\Obsidian Notes\\Homework",
+      "bufferSerial": "\u001b[?1049h\u001b[H                                         \u001b[1mSituation:\u001b[0m Episodes end reliably,      cost                                   per step                               \u001b[1mApproach:\u001b[0m $\\gamma = 1$, stochastic     shortest path                          ─────────────────────────────────────  ─                                      \u001b[1mSituation:\u001b[0m Runs forever, care about    rate                                   \u001b[1mApproach:\u001b[0m Average reward               ─────────────────────────────────────  ─                                      \u001b[1mSituation:\u001b[0m Runs forever, care about    near-term more                         \u001b[1mApproach:\u001b[0m Discounting                  ─────────────────────────────────────  ─                                      \u001b[1mSituation:\u001b[0m Hard time limit             \u001b[1mApproach:\u001b[0m Finite horizon, put the      time                                   step into the state                                                           The time-limit case has a common trap  in deep RL. If you cut episodes off    at a time limit but treat the cutoff   as a true terminal state, the value    target is biased, because the          environment didn't actually end        there.                                                                        I can add the undiscounted and         average-reward cases to the horizon    callout I offered, if you want that.                                        \u001b[38;2;153;153;153m✻ Baked for 23s · done 4:18 PM         \u001b[0m  \u001b[38;2;78;186;101m✔ Update installed · Restart to up…  \u001b[38;2;136;136;136m────────────── setup homework symlink ─\u001b[0m❯ \u001b[2madd the horizon types callout to the…\u001b[38;2;136;136;136;22m───────────────────────────────────────\u001b[0m  \u001b[38;2;255;193;7m⏵⏵ auto mode on \u001b[38;2;153;153;153m(shift+tab to  · ←   \u001b[2A\u001b[37D\u001b[0m\u001b[?2004h\u001b[?1004h\u001b[?1003h",
+      "closedAt": 1790021957824
+    },
+    {
+      "name": "Terminal 1",
+      "color": "",
+      "cwd": "C:\\Archit Resources\\Obsidian Notes\\Homework",
+      "bufferSerial": "Microsoft Windows [Version 10.0.26200.9445]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nC:\\Archit Resources\\Obsidian Note\r\n\u001b[5Cclaude\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[23A\u001b[?1049h\u001b[H    steps can destroy the policy) and\r\n\u001b[2C  its actual constrained-optimization\r\n   \u001b[1Cobjective, which I checked\u001b[1Cagainst\r\n    the paper.\r\n  -\u001b[1CA specific note on \u001b[3mwhy RARL needs \r\n\u001b[0m \u001b[1C  \u001b[3mit\u001b[0m — the two-player alternating\r\n    setup means an unstable update from\r\n\u001b[4Ceither side can wreck the other\r\n \u001b[1C  player's training\u001b[1Cmid-game,\u001b[1Cwhich\r\n    TRPO's trust-region guarantee is\r\n    what keeps in check.\r\n    \r\n\u001b[38;2;153;153;153m✻\u001b[1CSautéed for 54s · done 3:21 PM\r\n\u001b[2C\u001b[0m  \r\n\u001b[38;2;153;153;153m※\u001b[1C\u001b[1mrecap: \u001b[22;3mWe polished your Homework and \r\n\u001b[0m \u001b[1C\u001b[38;2;153;153;153;3mAAMAS Review Obsidian notes for \r\n\u001b[0m  \u001b[38;2;153;153;153;3mformatting, accuracy, and figures, \r\n\u001b[0m \u001b[1C\u001b[38;2;153;153;153;3mand just added a TRPO explainer box \r\n\u001b[2Cwith its paper embedded in the RARL \r\n\u001b[0m  \u001b[38;2;153;153;153;3msection. Nothing pending on my end \r\n\u001b[0m \u001b[1C\u001b[38;2;153;153;153;3munless you want more sections filled \r\n\u001b[0m  \u001b[38;2;153;153;153;3min. (disable recaps in /config)\r\n\u001b[2C\u001b[23mnew task? \u001b[38;2;177;185;249m/clear\u001b[38;2;153;153;153m to save \u001b[38;2;177;185;249m222k toke…\r\n\u001b[38;2;136;136;136m───────────────────────────────────────\r\n\u001b[0m> \r\n\u001b[38;2;136;136;136m───────────────────────────────────────\r\n\u001b[2C\u001b[38;2;255;193;7m⏵⏵ auto mode on\u001b[38;2;153;153;153m (shift+tab to  · ←…\u001b[2A\u001b[35D\u001b[0m\u001b[?2004h\u001b[?1004h\u001b[?1003h",
+      "closedAt": 1789157696220
+    },
+    {
+      "name": "Terminal 1",
+      "color": "",
+      "cwd": "C:\\Archit Resources\\Obsidian Notes\\Homework",
+      "bufferSerial": "\r\n\u001b[33mTerminal binaries not installed.\r\n\u001b[0mGo to Settings → Terminal to download them.\u001b[1B\u001b[10D",
+      "closedAt": 1789065098416
+    }
+  ],
+  "enableClaudeIntegration": false,
+  "claudeSessionsDir": "",
+  "claudeRegistryPath": "claude-sessions.md",
+  "claudeSessionsMax": 25,
+  "tabColorTintsBackground": true,
+  "tabColors": [
+    {
+      "name": "None",
+      "value": "",
+      "tintStrength": 0,
+      "builtin": true
+    },
+    {
+      "name": "Vermilion",
+      "value": "#FC3634",
+      "tintStrength": 12,
+      "builtin": true
+    },
+    {
+      "name": "Sky Blue",
+      "value": "#25D0F7",
+      "tintStrength": 12,
+      "builtin": true
+    },
+    {
+      "name": "Gold",
+      "value": "#FFD700",
+      "tintStrength": 12,
+      "builtin": true
+    },
+    {
+      "name": "Mint",
+      "value": "#18BC9C",
+      "tintStrength": 12,
+      "builtin": true
+    },
+    {
+      "name": "Azure",
+      "value": "#007BFF",
+      "tintStrength": 12,
+      "builtin": true
+    },
+    {
+      "name": "Purple",
+      "value": "#A991D4",
+      "tintStrength": 12,
+      "builtin": true
+    }
+  ],
+  "tabBarPosition": "top",
+  "wikiLinkAutocomplete": false,
+  "wikiLinkInsertMode": "wikilink",
+  "clickableFilePaths": true,
+  "readlineShortcuts": true
+}
